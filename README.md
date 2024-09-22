@@ -22,6 +22,9 @@ The script also detected suspicious activities such as potential DoS attacks or 
 Use Cases:
 
 Network troubleshooting and performance optimization.
+
+GeoLiteCity:
+First of you will need to download the GeoLiteCity database as this will be used to translate a IP address into a Geo location(longitude & latitude). The database can be downloaded in this repo
 Security analysis to detect vulnerabilities, such as open ports or unauthorized traffic.
 Custom packet crafting to simulate network attacks for security testing purposes.
 Tools and Technologies:
